@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import './index.css'
-import CatDressUpApp from './app.jsx'
+import CatDressUpApp from './app.tsx'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
